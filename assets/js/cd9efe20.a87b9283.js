@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[682],{4595:function(o){o.exports=JSON.parse('{"allTagsPath":"/fibocom_docs3/blog/tags","slug":"/fibocom_docs3/blog/tags/hola","name":"hola","count":1,"permalink":"/fibocom_docs3/blog/tags/hola"}')}}]);
