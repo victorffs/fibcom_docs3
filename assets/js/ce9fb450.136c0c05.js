@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[74],{7624:function(s){s.exports=JSON.parse('{"allTagsPath":"/fibcom_docs3/blog/tags","slug":"/fibcom_docs3/blog/tags/hello","name":"hello","count":2,"permalink":"/fibcom_docs3/blog/tags/hello"}')}}]);
